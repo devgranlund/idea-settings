@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T09:13:55.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0GuEJbNmq1-xYAhrjrgE" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-12T09:19:04.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IPZrntIvYMwm9qxE01md" version="15.1.4" type="github">
   <diagram id="0w82SK2QTF1lje_9Vqo6" name="Page-1">
     <mxGraphModel dx="706" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,11 +16,11 @@
         <mxCell id="h8FWp38skAzf_V1491gm-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="180" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h8FWp38skAzf_V1491gm-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="250" width="20" height="40" as="geometry" />
+        <mxCell id="h8FWp38skAzf_V1491gm-7" value="Ulla" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h8FWp38skAzf_V1491gm-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="320" width="20" height="40" as="geometry" />
+        <mxCell id="h8FWp38skAzf_V1491gm-8" value="Raimo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h8FWp38skAzf_V1491gm-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="540" y="155" width="340" height="110" as="geometry" />
@@ -36,6 +36,36 @@
         </mxCell>
         <mxCell id="h8FWp38skAzf_V1491gm-14" value="Heli" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-16" value="Juha" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="740" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-17" value="Janita" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="740" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-18" value="Leena" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="740" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-19" value="Sara" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-20" value="Jyrki" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-21" value="Marika" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-22" value="Juho" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-23" value="Markku" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="740" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-24" value="Heli" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="740" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8FWp38skAzf_V1491gm-27" value="Kirsi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
