@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T14:07:29.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uE-4bIxyaH_fazMmX6LL" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T14:26:35.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Bpg7EthX2b_ke79A6Ias" version="15.5.0" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="834" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -21,12 +21,6 @@
         </mxCell>
         <mxCell id="wj5ZEPAHRWuJNiS1JrIi-8" value="Data Validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="610" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-9" value="Data Preparation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="610" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-10" value="&lt;span&gt;- anonymous data&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="810" y="635" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wj5ZEPAHRWuJNiS1JrIi-11" value="Data snapshot" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="700" y="720" width="60" height="80" as="geometry" />
@@ -126,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wj5ZEPAHRWuJNiS1JrIi-33" value="Performance decreased" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="890" width="40" height="20" as="geometry" />
+          <mxGeometry x="945" y="890" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wj5ZEPAHRWuJNiS1JrIi-34" value="Isolated &amp;amp; restricted environment &lt;br&gt;(e.g. hospital&#39;s computational environment)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="359" y="924" width="240" height="30" as="geometry" />
@@ -159,10 +153,19 @@
           <mxGeometry x="320" y="1020" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YOUF4W0tKdoWE_U2R9VL-1" value="Data Quality Control" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="740" y="560" width="60" height="70" as="geometry" />
+          <mxGeometry x="730" y="560" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YOUF4W0tKdoWE_U2R9VL-2" value="Risk Management" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="750" width="80" height="70" as="geometry" />
+          <mxGeometry x="900" y="675" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YOUF4W0tKdoWE_U2R9VL-3" value="Performance requirements" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="895" y="800" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-9" value="Data Preparation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-10" value="&lt;span&gt;- anonymous data&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="635" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
