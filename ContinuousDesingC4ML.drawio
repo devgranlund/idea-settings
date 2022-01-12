@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T14:33:06.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qRIbWt6ASVWzlOpyCf3A" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T18:29:21.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1s0pKEwF5knYM0oYzgwn" version="16.2.4" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="834" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             <mxPoint x="810" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="wj5ZEPAHRWuJNiS1JrIi-12" edge="1" source="wj5ZEPAHRWuJNiS1JrIi-13">
+        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wj5ZEPAHRWuJNiS1JrIi-13" target="wj5ZEPAHRWuJNiS1JrIi-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="800" as="sourcePoint" />
             <mxPoint x="870" y="730" as="targetPoint" />
@@ -79,7 +79,7 @@
         <mxCell id="wj5ZEPAHRWuJNiS1JrIi-23" value="Packaged model" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="1030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-24" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.945;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="FotyqHdmhpsPJTuJog_--3" source="wj5ZEPAHRWuJNiS1JrIi-14">
+        <mxCell id="wj5ZEPAHRWuJNiS1JrIi-24" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.945;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wj5ZEPAHRWuJNiS1JrIi-14" target="FotyqHdmhpsPJTuJog_--3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="699" y="920" as="sourcePoint" />
             <mxPoint x="699" y="1000" as="targetPoint" />
@@ -152,13 +152,13 @@
         <mxCell id="FotyqHdmhpsPJTuJog_--3" value="Risk managers and compliance officers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="1020" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YOUF4W0tKdoWE_U2R9VL-1" value="Data Quality Control" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="YOUF4W0tKdoWE_U2R9VL-1" value="Data Quality Control" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="730" y="560" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YOUF4W0tKdoWE_U2R9VL-2" value="Risk Management" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="YOUF4W0tKdoWE_U2R9VL-2" value="Risk Management" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="900" y="675" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YOUF4W0tKdoWE_U2R9VL-3" value="Performance requirements" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="YOUF4W0tKdoWE_U2R9VL-3" value="Performance requirements" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="895" y="800" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wj5ZEPAHRWuJNiS1JrIi-9" value="Data Preparation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -167,7 +167,7 @@
         <mxCell id="wj5ZEPAHRWuJNiS1JrIi-10" value="&lt;span&gt;- anonymous data&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="635" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YOUF4W0tKdoWE_U2R9VL-4" value="Management of data sets" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="YOUF4W0tKdoWE_U2R9VL-4" value="Management of data sets" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="546" y="550" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
