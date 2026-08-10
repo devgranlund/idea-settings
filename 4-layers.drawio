@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sivu-1" id="oRt9hPDUGhlC2Rq0jEGM">
+    <mxGraphModel dx="1084" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tUy4G98TdcpaXt7uXC5O-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Union legislation&lt;/b&gt;&lt;div&gt;MDR, IVDR&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="240" x="294" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tUy4G98TdcpaXt7uXC5O-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;National legislation&lt;/b&gt;&lt;div&gt;Member State provisions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="320" x="254" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tUy4G98TdcpaXt7uXC5O-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Guidance documents&lt;/b&gt;&lt;div&gt;MDCG&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="400" x="214" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tUy4G98TdcpaXt7uXC5O-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;International standards&lt;/b&gt;&lt;div&gt;ISO, IEC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="480" x="174" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
